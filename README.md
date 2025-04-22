@@ -1,16 +1,20 @@
-## Hi there 👋
+<p>
+  <h1 align="center"> 프론트엔드 개발자 송진우입니다</h1>
+</p>
 
-<!--
-**jinwoo710/jinwoo710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<p align="center">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<br />
+
+<p>
+  <h2 align="center">Tech Stacks 🛠</h2>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,next,svelte,js,typescript,tailwindcss,github" />
+  </a>
+</p>
